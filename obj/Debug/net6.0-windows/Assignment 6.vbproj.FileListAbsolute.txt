@@ -1,0 +1,17 @@
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.vbproj.AssemblyReference.cache
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment_6.frmConversion.resources
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.vbproj.GenerateResource.cache
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.AssemblyInfoInputs.cache
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.AssemblyInfo.vb
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.vbproj.CoreCompileInputs.cache
+E:\Visual Studio\Community\Projects\Assignment 6\bin\Debug\net6.0-windows\Assignment 6.exe
+E:\Visual Studio\Community\Projects\Assignment 6\bin\Debug\net6.0-windows\Assignment 6.deps.json
+E:\Visual Studio\Community\Projects\Assignment 6\bin\Debug\net6.0-windows\Assignment 6.runtimeconfig.json
+E:\Visual Studio\Community\Projects\Assignment 6\bin\Debug\net6.0-windows\Assignment 6.dll
+E:\Visual Studio\Community\Projects\Assignment 6\bin\Debug\net6.0-windows\Assignment 6.pdb
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.dll
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\refint\Assignment 6.dll
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.pdb
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\Assignment 6.genruntimeconfig.cache
+E:\Visual Studio\Community\Projects\Assignment 6\obj\Debug\net6.0-windows\ref\Assignment 6.dll
